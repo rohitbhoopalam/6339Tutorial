@@ -1,0 +1,4 @@
+OAuthConsKey = 'fVEQHh6Nl3ei0wOJsxV6vJWCv'
+OAuthConsSecret = 'u2Wp68U2rsMHRcbyT1nqS5v9m98NaMPN60aaxl5qvSE8XNikHE'
+OAuthToken = '59928666-s9ZPGPV7tPPYimOC5vpwn5cCWwxQMt7GXMV0JUMDU'
+OAuthTokenSecret = 'DLEqyqfYGr1pwmYhP8n6l5gfauIgUFBWKFy8l4g2Bwyhr'
